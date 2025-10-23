@@ -9,7 +9,7 @@ I took my first steps in **C**, and now I'm learning **C++** and also delving in
 🧠 Briefly About Me
 - 🪪 **Year of Birth:** 2009
 - 💻 **My first computer experience:** Age 7
-- ⚙️ **What I Know:** C
+- ⚙️ **What I Know:** C, HTML & CSS & Javascript
 - 🚀 **What I'm currently learning:** C++ and Java
 - 🎯 **My Goal:** To work on real projects as a software engineer
 - 💡 **My Interests:** Systems programming, algorithms, desktop applications
